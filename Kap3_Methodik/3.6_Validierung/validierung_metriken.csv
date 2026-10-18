@@ -1,0 +1,17 @@
+metrik,korrekt,falsch,uebereinstimmung_%
+AV,3073,53,98.3
+AC,3042,84,97.31
+AT,2889,237,92.42
+PR,2941,185,94.08
+UI,2810,316,89.89
+VC,2837,289,90.75
+VI,2854,272,91.3
+VA,2957,169,94.59
+SC,2868,258,91.75
+SI,2885,241,92.29
+SA,2929,197,93.7
+
+kennzahl,wert
+n,3126
+MAE,1.1652
+severity_uebereinstimmung_%,68.78

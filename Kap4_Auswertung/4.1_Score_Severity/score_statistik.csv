@@ -1,0 +1,12 @@
+test,kennzahl,wert
+Wilcoxon,n_paare,10419
+Wilcoxon,n_nulldifferenzen_ausgeschlossen,79
+Wilcoxon,n_effektiv,10340
+Wilcoxon,teststatistik_W,13141674.0
+Wilcoxon,p_wert,0.0
+Wilcoxon,alpha,0.05
+Wilcoxon,signifikant,ja
+Wilcoxon,testrichtung,zweiseitig
+Wilcoxon,richtung_effekt,v4.0 < v3.1
+Cliff's Delta,delta,-0.2128
+Cliff's Delta,interpretation,klein
